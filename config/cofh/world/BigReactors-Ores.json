@@ -6,7 +6,7 @@
         "numClusters": 3,
         "meanHeight": 6,
         "maxVariance": 6,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",

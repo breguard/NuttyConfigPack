@@ -1,0 +1,21 @@
+{
+    "apatite": {
+        "template": "uniform",
+        "block": "Forestry:resources",
+        "metadata": 0,
+        "clusterSize": 16,
+        "numClusters": 2,
+        "minHeight": 75,
+        "maxHeight": 256,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+    }
+}

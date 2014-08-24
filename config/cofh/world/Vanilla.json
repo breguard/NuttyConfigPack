@@ -51,55 +51,55 @@
         ]
     },
     "iron": {
-        "template": "uniform",
-        "block": "iron_ore",
+		"template": "normal",
+		"block": "iron_ore",
 		"material": "minecraft:stone",
-        "clusterSize": 7,
-        "numClusters": 20,
-        "minHeight": 0,
-        "maxHeight": 64,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+		"clusterSize": 14,
+		"numClusters": 10,
+		"meanHeight": 48,
+		"maxVariance": 13,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+		-1,
+		1
+		]
     },
     "gold": {
-        "template": "uniform",
-        "block": "gold_ore",
+		"template": "normal",
+		"block": "gold_ore",
 		"material": "minecraft:stone",
-        "clusterSize": 5,
-        "numClusters": 2,
-        "minHeight": 0,
-        "maxHeight": 32,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+		"clusterSize": 5,
+		"numClusters": 2,
+		"meanHeight": 18,
+		"maxVariance": 6,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+		-1,
+		1
+		]
     },
     "redstone": {
-        "template": "uniform",
-        "block": "redstone_ore",
+		"template": "normal",
+		"block": "redstone_ore",
 		"material": "minecraft:stone",
-        "clusterSize": 7,
-        "numClusters": 8,
-        "minHeight": 0,
-        "maxHeight": 16,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
+		"clusterSize": 7,
+		"numClusters": 8,
+		"meanHeight": 13,
+		"maxVariance": 6,
+		"retrogen": "false",
+		"biomeRestriction": "none",
+		"biomes": [],
+		"dimensionRestriction": "blacklist",
+		"dimensions": [
+		-1,
+		1
+		]
     },
     "diamond": {
         "template": "uniform",
@@ -107,9 +107,9 @@
 		"material": "minecraft:stone",
         "clusterSize": 4,
         "numClusters": 2,
-        "minHeight": 0,
+        "minHeight": 1,
         "maxHeight": 16,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -126,7 +126,7 @@
         "numClusters": 1,
         "meanHeight": 16,
         "maxVariance": 16,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",

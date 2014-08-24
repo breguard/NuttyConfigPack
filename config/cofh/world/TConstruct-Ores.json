@@ -7,7 +7,7 @@
         "numClusters": 11,
         "minHeight": 44,
         "maxHeight": 62,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "blacklist",
@@ -15,5 +15,43 @@
             -1,
             1
         ]
-    }
+    },
+	"ardite": {
+		"template": "uniform",
+        "block": "TConstruct:SearedBrick",
+		"metadata": 2,
+		"material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "hell"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+	},
+		"cobalt": {
+		"template": "uniform",
+        "block": "TConstruct:SearedBrick",
+		"metadata": 1,
+		"material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 8,
+        "minHeight": 10,
+        "maxHeight": 118,
+        "retrogen": "false",
+        "biomeRestriction": "whitelist",
+        "biomes": [
+            "hell"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+	},
 }
