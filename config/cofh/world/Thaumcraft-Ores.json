@@ -1,0 +1,146 @@
+{
+	"amber": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 7,
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 20,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+			1
+        ]
+	},
+	"cinnabar": {
+		"template": "normal",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 0,
+		"material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 15,
+        "meanHeight": 32,
+        "maxVariance": 16,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"air": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 1,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 50,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"water": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 3,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 38,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"fire": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 2,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 1,
+        "maxHeight": 32,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"earth": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 4,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 25,
+        "maxHeight": 64,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"order": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 5,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	},
+	"entropy": {
+		"template": "uniform",
+        "block": "Thaumcraft:blockCustomOre",
+		"metadata": 6,
+		"material": "minecraft:stone",
+        "clusterSize": 3,
+        "numClusters": 10,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "blacklist",
+        "dimensions": [
+            -1,
+            1
+        ]
+	}
+}
